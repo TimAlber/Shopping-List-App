@@ -2,18 +2,7 @@
 Android Shopping List App
 ===================================
 
-Cover art
-Shopping List
-Velociraptorlein Studios Shopping
-USK: All ages USK: All ages
-This app is compatible with all of your devices.
- Installed
-   Shopping List- screenshot thumbnail     Shopping List- screenshot thumbnail   
-
 You can Add Items with the Plus Button and delete them by clicking on them.
-
-Introduction
------------
 [1]: https://play.google.com/store/apps/details?id=timalber.shoppinglist.de
 
 Pre-requisites
