@@ -1,26 +1,20 @@
 
-Android FloatingActionButtonBasic Sample
+Android Shopping List App
 ===================================
 
-This sample shows the two sizes of Floating Action Buttons and
-how to interact with them.
+Cover art
+Shopping List
+Velociraptorlein Studios Shopping
+USK: All ages USK: All ages
+This app is compatible with all of your devices.
+ Installed
+   Shopping List- screenshot thumbnail     Shopping List- screenshot thumbnail   
+
+You can Add Items with the Plus Button and delete them by clicking on them.
 
 Introduction
-------------
-
-This sample shows how to implement a [Checkable][1] Floating Action Button.
-
-Floating action buttons are used for a special type of promoted action.
-They are distinguished by a circled icon floating above the UI and have
-special motion behaviors related to morphing, launching, and the transferring anchor point.
-
-Floating action buttons come in two sizes:
-the default, which should be used in most cases, and the mini,
-which should only be used to create visual continuity with other elements on the screen.
-
-Both sizes of Floating Action Buttons are displayed on screen.
-
-[1]: https://developer.android.com/reference/android/widget/Checkable.html
+-----------
+[1]: https://play.google.com/store/apps/details?id=timalber.shoppinglist.de
 
 Pre-requisites
 --------------
@@ -29,28 +23,6 @@ Pre-requisites
 - Android Build Tools v25.0.3
 - Android Support Repository
 
-Screenshots
--------------
-
-<img src="screenshots/screenshot1.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot2.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot3.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot4.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot5.png" height="400" alt="Screenshot"/> 
-
-Getting Started
----------------
-
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
-
-Support
--------
-
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
-If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-FloatingActionButtonBasic
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
 License
 -------
