@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:16:1-38:12
+	package
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:17:5-60
+		INJECTED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:16:11-69
+application
+ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:21:5-36:19
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\c65a64dfb32e5b72e641fdba466be636567e0f78\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\67f303465505380d941fb18bb5964fdbade2a111\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\9609b1deefe60385d62d6980b236fd0d9810e666\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\dec27dc665ddaaa726309078ad6953239408c9bf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\13d5b2678e7c2d0934a1ce5b883a1391f2a0513d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\862f6de2498655c9119b1bcaa9ba2accbd9ce725\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\a769cc986f214e1fc23437cfedb9107397c32981\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\77632a5add04bcebeed6f251eb3505ebefb141b0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\38514cd2a75db2472f71af829904e3057a52f651\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\2c7034e9c21cb214a13cff7323ac482ca0d3760b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\e194e08e74e0e9b0ec55985523ce13bee73bcbd7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Velociraptorlein\.android\build-cache\55fa1545bf9d25e75c6a45299679894adf344359\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:23:9-45
+	android:theme
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:25:9-40
+activity#de.example.android.floatingactionbuttonbasic.MainActivity
+ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:27:13-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:32:27-74
+activity#de.example.android.floatingactionbuttonbasic.AddItem
+ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:35:9-98
+	android:name
+		ADDED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml:35:19-86
+uses-sdk
+INJECTED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\c65a64dfb32e5b72e641fdba466be636567e0f78\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\67f303465505380d941fb18bb5964fdbade2a111\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\9609b1deefe60385d62d6980b236fd0d9810e666\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\dec27dc665ddaaa726309078ad6953239408c9bf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\13d5b2678e7c2d0934a1ce5b883a1391f2a0513d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\862f6de2498655c9119b1bcaa9ba2accbd9ce725\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\a769cc986f214e1fc23437cfedb9107397c32981\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\77632a5add04bcebeed6f251eb3505ebefb141b0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\38514cd2a75db2472f71af829904e3057a52f651\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\2c7034e9c21cb214a13cff7323ac482ca0d3760b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\e194e08e74e0e9b0ec55985523ce13bee73bcbd7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Velociraptorlein\.android\build-cache\55fa1545bf9d25e75c6a45299679894adf344359\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\c65a64dfb32e5b72e641fdba466be636567e0f78\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Velociraptorlein\AndroidStudioProjects\S-L-A\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\c65a64dfb32e5b72e641fdba466be636567e0f78\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\67f303465505380d941fb18bb5964fdbade2a111\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\9609b1deefe60385d62d6980b236fd0d9810e666\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\dec27dc665ddaaa726309078ad6953239408c9bf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\13d5b2678e7c2d0934a1ce5b883a1391f2a0513d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\862f6de2498655c9119b1bcaa9ba2accbd9ce725\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\a769cc986f214e1fc23437cfedb9107397c32981\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\77632a5add04bcebeed6f251eb3505ebefb141b0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\38514cd2a75db2472f71af829904e3057a52f651\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\2c7034e9c21cb214a13cff7323ac482ca0d3760b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\e194e08e74e0e9b0ec55985523ce13bee73bcbd7\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\c65a64dfb32e5b72e641fdba466be636567e0f78\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Velociraptorlein\.android\build-cache\c65a64dfb32e5b72e641fdba466be636567e0f78\output\AndroidManifest.xml:26:9-47
