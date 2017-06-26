@@ -3,7 +3,7 @@ Android Shopping List App
 ===================================
 
 You can Add Items with the Plus Button and delete them by clicking on them.
-[1]: https://play.google.com/store/apps/details?id=timalber.shoppinglist.de
+Google Play: https://play.google.com/store/apps/details?id=timalber.shoppinglist.de
 
 Pre-requisites
 --------------
